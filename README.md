@@ -1,6 +1,4 @@
-Here's a well-structured `README.md` file for your `MCP_transport-http` project:
 
-```markdown
 # MCP Transport HTTP
 
 A lightweight HTTP transport module for MCP (Message Control Protocol).
