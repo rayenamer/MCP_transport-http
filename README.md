@@ -67,14 +67,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 [MIT](https://choosealicense.com/licenses/mit/)
 ```
 
-This README includes:
-1. Clear project description
-2. Features list
-3. Installation instructions
-4. Usage examples
-5. Configuration details
-6. Project structure overview
-7. Contribution guidelines
-8. License information
 
-You can customize any sections further based on your project's specific needs.
